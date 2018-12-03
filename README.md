@@ -1,1 +1,3 @@
 # 3-yangxiaoxuan-766
+git是Linux创始人Linus 发明的一种版本控制系统，而GitHub是基于git软件的一个网站。git@osc也是如此，另外国内还有gitcafe，CODE@csdn等，国外还有一个gitLab，其核心是用的git，只不过对外的接口也就是web网页是自己做的。
+这里面做的最好的当然是GitHub了，在git的基础上，添加了很多增强用户体验的东西，markdown风格的文档，fork，pull request，issue，wiki。当然了，这些东西也很容易被国内网站给copy了。不过国内的几家我试过用户体验都很差。而且你在GitHub上能找到很多知名的国际项目。很多大公司和牛人也是活跃在GitHub的
